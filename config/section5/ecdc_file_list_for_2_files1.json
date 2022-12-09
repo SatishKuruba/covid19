@@ -1,0 +1,10 @@
+[
+    {
+        "Source_Relative_URL_Parameter":"covid19/nationalcasedeath/csv/data.csv",
+        "Sink_File_Name_Parameter":"cases_deaths.csv"
+    },
+    {
+        "Source_Relative_URL_Parameter":"covid19/hospitalicuadmissionrates/csv/data.csv",
+        "Sink_File_Name_Parameter":"hospital_admissions.csv"
+    }
+]

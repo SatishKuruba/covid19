@@ -1,0 +1,22 @@
+[
+    {
+        "Source_Base_URL":"https://opendata.ecdc.europa.eu",
+        "Source_Relative_URL":"covid19/nationalcasedeath/csv/data.csv",
+        "Sink_File_Name":"cases_deaths.csv"
+    },
+    {
+        "Source_Base_URL":"https://opendata.ecdc.europa.eu",
+        "Source_Relative_URL":"covid19/hospitalicuadmissionrates/csv/data.csv",
+        "Sink_File_Name":"hospital_admissions.csv"
+    },
+    {
+        "Source_Base_URL":"https://opendata.ecdc.europa.eu",
+        "Source_Relative_URL":"covid19/testing/csv/data.csv",
+        "Sink_File_Name":"testing.csv"
+    },
+    {
+        "Source_Base_URL":"https://www.ecdc.europa.eu",
+        "Source_Relative_URL":"sites/default/files/documents/response_graphs_data_2022-08-25.csv",
+        "Sink_File_Name":"country_response.csv"
+    }
+]
